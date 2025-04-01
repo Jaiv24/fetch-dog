@@ -1,4 +1,4 @@
-# Dog Breed Explorer - SFWRTECH 4WP3 Assignment #8
+# Dog Breed Explorer
 
 ## Overview
 
